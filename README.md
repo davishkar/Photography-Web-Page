@@ -11,7 +11,7 @@ This project is a simple photography web page named "pixcacam" that showcases be
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [live Demo](#live-demo)
 
 ## Features
 
@@ -70,9 +70,6 @@ For any inquiries or feedback, please contact:
 
 - Developer: Avishkar 
 
-Feel free to connect with us on social media:
+## Live Demo
 
-- [Facebook](#)
-- [Twitter](#)
-- [Instagram](#)
-- [LinkedIn](#)
+Check out the live demo [here](https://davishkar.github.io/Photography-Web-Page/).
