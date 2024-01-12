@@ -1,5 +1,5 @@
 # pixcacam - Photography Web Page
-
+This project is a simple photography web page named "pixcacam" that showcases beautiful moments captured through images. The web page includes a responsive design, a navigation bar, a hero section, and an image grid displaying various photos. 
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
